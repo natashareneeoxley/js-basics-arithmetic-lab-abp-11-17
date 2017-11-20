@@ -15,4 +15,4 @@ let randomNumber = (Math.random() * 20) + 0;
 
 let randomInteger = Math.floor(randomNumber);
 
-let randomUserID = (randomInteger) * 1000000020) + 1000000001;
+let randomUserID = (Math.random() * 1000000020) + 1000000001;
